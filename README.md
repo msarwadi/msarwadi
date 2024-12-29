@@ -4,7 +4,7 @@ I am a Computer Science major and a Legal Studies Minor with a concentration in 
 <img src="/images/LinkedIN.png" width="20" height="20" style="inline"> </img>
 [LinkedIn](https://www.linkedin.com/in/maanvi-sarwadi-44384420b/)
 
-<img src="/images/Gmail.png" width="50" height="50" style="inline"> </img>
+<img src="/images/Gmail.png" width="25" height="25" style="inline"> </img>
 [Gmail](maanvisarwadi2027@u.northwestern.edu)
 
 
