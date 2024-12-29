@@ -1,6 +1,8 @@
 ## 👋 Hi there, I'm Maanvi!
 I am a Computer Science major and a Legal Studies Minor with a concentration in Artificial Intelligence with a passion for implementing AI technologies into the legal field. I enjoy learning about different Machine Learning techniques and utilizing data to tell stories through data visualizations. I hope to continuously learn new skills and hopefully contribute to exciting industry projects in law firms.
 
+
+## Links
 <img src="/images/LinkedIN.png" width="20" height="20" style="inline"> </img>
 [LinkedIn](https://www.linkedin.com/in/maanvi-sarwadi-44384420b/) | <img src="/images/Gmail.png" width="20" height="15" style="inline"> </img>
 [Gmail](maanvisarwadi2027@u.northwestern.edu) | <img src="/images/Github.png" width="20" height="20" style="inline"> </img>
