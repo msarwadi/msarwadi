@@ -1,5 +1,11 @@
 ## 👋 Hi there, I'm Maanvi!
 I am a Computer Science major and a Legal Studies Minor with a concentration in Artificial Intelligence with a passion for implementing AI technologies into the legal field. I enjoy learning about different Machine Learning techniques and utilizing data to tell stories through data visualizations. I hope to continuously learn new skills and hopefully contribute to exciting industry projects in law firms.
+
+<img src="/LinkedIN.png" width="20" height="20" style="inline"> </img>
+[LinkedIn](https://www.linkedin.com/in/maanvi-sarwadi-44384420b/)
+
+
+
 <!--
 **msarwadi/msarwadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
