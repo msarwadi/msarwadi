@@ -12,7 +12,7 @@ Coming Soon!
 ## Contact Info
 <img src="/images/LinkedIN.png" width="20" height="20" style="inline"> </img> &nbsp;
 [LinkedIn](https://www.linkedin.com/in/maanvi-sarwadi-44384420b/) &nbsp; &nbsp;| &nbsp; &nbsp; <img src="/images/Gmail.png" width="20" height="15" style="inline"> </img> &nbsp;
-[Gmail]("maanvisarwadi2027@u.northwestern.edu") &nbsp; &nbsp; | &nbsp; &nbsp; <img src="/images/Github.png" width="20" height="20" style="inline"> </img> &nbsp;
+[Gmail](<maanvisarwadi2027@u.northwestern.edu>) &nbsp; &nbsp; | &nbsp; &nbsp; <img src="/images/Github.png" width="20" height="20" style="inline"> </img> &nbsp;
 [Github](https://github.com/msarwadi)
 
 
