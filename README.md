@@ -7,7 +7,11 @@ I am a Computer Science major and a Legal Studies Minor with a concentration in 
 📦 &nbsp; Tensorflow, Keras, Scikit, Numpy, Pandas <br>
 
 ## Projects
-Coming Soon!
+### Sentiment Analysis of SEC Filing Responses <br>
+
+### Regression Analysis on Confidence in Government - World Happiness Report <br>
+
+### Marvelous Match!
 
 ## Contact Info
 <img src="/images/LinkedIN.png" width="20" height="20" style="inline"> </img> &nbsp;
