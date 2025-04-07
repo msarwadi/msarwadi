@@ -4,7 +4,7 @@ I am a Computer Science major and a Legal Studies Minor with a concentration in 
 ## 🔧 Tech Stacks
 💻 &nbsp; Python, SQL <br>
 🧰 &nbsp; AWS, Virtual Studio Code, Kaggle <br>
-📦 &nbsp; Tensorflow, Keras, Scikit, Numpy, Pandas <br>
+📦 &nbsp; Tensorflow, Keras, PyTorch, Scikit, Numpy, Pandas <br>
 
 ## Projects
 ### (1) Sentiment Analysis of SEC Filing Responses <br>
