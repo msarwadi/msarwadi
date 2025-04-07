@@ -16,6 +16,12 @@ I am a Computer Science major and a Legal Studies Minor with a concentration in 
 ### Marvelous Match!
 **Summary**: Utilized AWS Rekognition to create a program that compares an input image to a dataset of Avengers, performs a facial analysis of both images, and outputs the Avenger that the input image is most similar to
 
+## ADHD in Women Diagnosis
+**Summary**: Developed a predictive Random Forest Ensemble model for sex and ADHD diagnosis using functional brain imaging, socio-demographic, emotional, and parenting data
+
+## Fakes Detection
+**Summary**: Cleaned data containing Biographies and classified as Fake or Real using a pretrained BERT Model that was then finetuned and compared to a baseline Logistic Regression model
+
 ## Contact Info
 <img src="/images/LinkedIN.png" width="20" height="20" style="inline"> </img> &nbsp;
 [LinkedIn](https://www.linkedin.com/in/maanvi-sarwadi-44384420b/) &nbsp; &nbsp;| &nbsp; &nbsp; <img src="/images/Gmail.png" width="20" height="15" style="inline"> </img> &nbsp;
