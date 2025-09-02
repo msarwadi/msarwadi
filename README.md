@@ -2,8 +2,8 @@
 I am a Computer Science major and a Legal Studies Minor with a concentration in Artificial Intelligence as well as a Certificate in Managerial Analytics from Kellogg Business School. I am  passionate about implementing AI technologies into legal and financial industries. I enjoy learning about different Machine Learning techniques and utilizing data to tell stories through data visualizations. I hope to continuously learn new skills and hopefully contribute to exciting industry projects in law firms.
 
 ## 🔧 Tech Stacks
-💻 &nbsp; Python, SQL <br>
-🧰 &nbsp; AWS, Virtual Studio Code, Kaggle <br>
+💻 &nbsp; Python, SQL, Ruby, React <br>
+🧰 &nbsp; AWS, Google Cloud Console, Virtual Studio Code, Kaggle <br>
 📦 &nbsp; Tensorflow, Keras, PyTorch, Scikit, Numpy, Pandas <br>
 
 ## Projects
